@@ -1,0 +1,227 @@
+name,url,media_id,sum_media_inlink_count,inlink_count,outlink_count,story_count,facebook_share_count,sum_post_count,sum_author_count,sum_channel_count,media_inlink_count,twitter_partisanship,fake_news
+indianexpress.com,http://indianexpress.com/,56899,218,242,4,1180,78547,,,,43,"US Center 2019",0
+Twitter,http://twitter.com,18346,382,403,5,304,2072,,,,35,"US Center 2019",0
+HindustanTimes,http://www.hindustantimes.com/,39872,175,193,2,1188,66437,,,,34,"US Center Right 2019",0
+"The Times of India",http://timesofindia.indiatimes.com/,39784,129,142,8,2109,82743,,,,31,"US Center 2019",0
+"NDTV.com: India, Business, Bollywood, Cricket, Video and Breaking News",http://www.ndtv.com/,17973,177,191,10,1716,246896,,,,31,"US Center 2019",0
+thehindu,http://www.thehindu.com/,40306,96,106,2,1074,28288,,,,26,"US Center 2019",0
+indiatoday.intoday.in,http://indiatoday.intoday.in/#spider,67799,84,96,26,960,34000,,,,25,"US Center Left 2019",0
+thewire.in,http://thewire.in/,278493,56,60,164,447,62339,,,,23,"US Center Left 2019",0
+theprint.in,http://theprint.in/,570336,64,71,58,109,12557,,,,20,"US Center Left 2019",0
+newindianexpress.com,http://newindianexpress.com/#spider,100063,34,36,0,1438,5634,,,,20,"US Center 2019",0
+livemint.com,http://livemint.com/,56177,33,35,1,147,1058,,,,18,"US Center Right 2019",0
+"The Indian Express",http://expressindia.com/,63125,36,48,0,15,2002,,,,17,null,0
+CNN,http://www.cnn.com/,1095,22,34,2,6,9871,,,,17,"US Center Left 2019",0
+scroll.in,http://scroll.in/,110253,35,37,386,445,5057,,,,17,"US Center Left 2019",0
+livelaw.in,http://livelaw.in/,282884,38,45,14,43,5365,,,,16,"US Center Left 2019",0
+YouTube,http://www.youtube.com,18362,24,27,0,18,3676,,,,16,"US Center 2019",0
+economictimes,https://economictimes.indiatimes.com/,41238,27,30,8,1121,19094,,,,15,null,0
+tribuneindia.com,http://tribuneindia.com/,57626,47,49,2,1964,17713,,,,15,"US Center Right 2019",0
+"India | Latest India News | Get Free India.com Email | Live Cricket and Entertainment News at India.Com",http://www.india.com/,271589,22,22,2,420,53006,,,,14,"US Center Right 2019",0
+aninews.in,http://aninews.in/,282896,18,18,0,13,39,,,,12,"US Center Left 2019",0
+outlookindia.com,http://www.outlookindia.com/#spider,69105,14,14,3,48,973,,,,10,"US Center Right 2019",0
+"News 18",http://ibnlive.in.com,23248,36,42,20,1090,15208,,,,10,"US Center 2019",0
+"Al Jazeera",http://www.aljazeera.com/topics/country/india.html,283464,16,18,0,13,8602,,,,10,"US Center Left 2019",0
+barandbench.com,http://barandbench.com/,285226,18,19,0,16,1101,,,,10,null,0
+financialexpress,http://www.financialexpress.com/,39886,14,14,8,444,6734,,,,10,"US Center 2019",0
+"Business Today",http://www.businesstoday.in/,283382,18,19,8,249,1917,,,,10,"US Center 2019",0
+thenewsminute.com,http://thenewsminute.com/,258176,11,11,6,15,3503,,,,9,"US Center Left 2019",0
+Reuters,http://www.reuters.com,4442,10,10,0,9,167,,,,9,"US Center 2019",0
+altnews.in,http://altnews.in/,415736,25,29,8,15,11369,,,,9,"US Center 2019",0
+business-standard.com,http://www.business-standard.com,19341,17,20,2,777,4920,,,,9,"US Center Right 2019",0
+deccanherald,http://www.deccanherald.com/,39247,10,11,0,28,188,,,,8,"US Center 2019",0
+timesnownews.com,http://timesnownews.com/,537358,14,15,0,14,1294,,,,8,"US Center 2019",0
+thequint.com,http://thequint.com/,282811,9,9,9,283,29350,,,,7,"US Center 2019",0
+newslaundry.com,http://newslaundry.com/,262590,10,12,46,65,11378,,,,7,"US Right 2019",0
+telegraphindia.com,http://telegraphindia.com/,55376,12,13,3,12,979,,,,7,"US Center 2019",0
+firstpost.com,http://www.firstpost.com#spider,28777,11,13,252,382,3981,,,,7,"US Center 2019",0
+"People's Archive of Rural India consolidated feed",https://ruralindiaonline.org,283435,11,12,3,41,1908,,,,7,null,0
+theleaflet.in,http://theleaflet.in/,887332,23,24,10,20,528,,,,6,null,0
+nationalheraldindia.com,http://nationalheraldindia.com/,388887,6,8,0,5,122,,,,6,"US Left 2019",0
+newsclick.in,http://newsclick.in/#spider,105253,7,9,95,378,14007,,,,6,"US Left 2019",0
+freepressjournal.in,http://freepressjournal.in/,136476,6,6,16,620,965,,,,6,null,0
+opindia.com,http://opindia.com/,282927,6,6,168,299,68425,,,,6,"US Center 2019",0
+"CNBC TV18",http://www.moneycontrol.com/cnbctv18/,271154,9,11,17,301,7761,,,,6,"US Center 2019",0
+theindiaforum.in,http://theindiaforum.in/,1280228,6,9,2,1,271,,,,6,null,0
+"New York Times",http://nytimes.com,1,8,10,9,11,10377,,,,6,"US Center Left 2019",0
+Guardian,http://www.theguardian.com/us,623382,7,7,1,9,31855,,,,5,"US Center Left 2019",0
+indiatvnews.com,http://indiatvnews.com/,65449,7,9,0,32,476,,,,5,"US Center Right 2019",0
+"Criminal Justice | Change.org",http://criminaljustice.change.org/,6858,8,8,4,6,916,,,,5,"US Center Right 2019",0
+Quartz,http://qz.com/#spider,67264,5,5,45,13,523,,,,5,"US Center Left 2019",0
+republicworld.com,http://republicworld.com/,561011,21,25,0,109,13817,,,,5,"US Center Left 2019",0
+caravanmagazine.in,http://caravanmagazine.in/,259428,7,8,3,8,1685,,,,5,"US Center Left 2019",0
+thehindubusinessline.com,http://www.thehindubusinessline.com/#spider,67989,7,10,0,212,3471,,,,5,"US Right 2019",0
+BBC,http://www.bbc.co.uk/?ok,1094,4,9,0,3,1463,,,,4,"US Center 2019",0
+indiatoday.in,http://indiatoday.in/,282871,7,7,0,7,70,,,,4,"US Center 2019",0
+thefederal.com,http://thefederal.com/,1342372,4,5,0,26,150,,,,4,null,0
+downtoearth.org.in,http://downtoearth.org.in/,181566,4,4,0,5,830,,,,4,"US Left 2019",0
+"Washington Post",http://washingtonpost.com,2,5,5,12,6,371,,,,4,"US Center Left 2019",0
+pib.gov.in,http://pib.gov.in/,906101,4,4,0,2,5,,,,4,"US Center Left 2019",0
+deccanchronicle.com,http://deccanchronicle.com/,121578,6,7,0,110,749,,,,4,"US Center Left 2019",0
+HRW,http://www.hrw.org/,39966,4,5,4,1,862,,,,4,"US Center Left 2019",0
+boomlive.in,http://boomlive.in/,283014,7,8,56,125,1831,,,,4,null,0
+dnaindia.com,http://dnaindia.com/,65929,8,8,0,276,3067,,,,4,"US Center Right 2019",0
+peoplesdispatch.org,http://peoplesdispatch.org/,1200770,4,4,1,3,3160,,,,3,null,0
+theweek.in,http://theweek.in/,351980,4,4,0,7,56,,,,3,"US Center Left 2019",0
+"Dainik Jagran:Hindi News,Latest News in Hindi,News in Hindi,Hindi News Paper",http://www.jagran.com/,271157,4,4,1,911,6691,,,,3,"US Center 2019",0
+indiaspend.com,http://indiaspend.com/,283066,4,5,6,4,60,,,,3,"US Left 2019",0
+MSNBC,http://www.msnbc.msn.com/,1149,3,3,1,3,0,,,,3,"US Left 2019",0
+abplive.com,http://abplive.com/,1342317,6,7,0,6,41,,,,3,"US Left 2019",0
+ndtv.in,http://ndtv.in/,1835594,6,8,8,9,0,,,,2,null,0
+avayshukla.blogspot.com,http://avayshukla.blogspot.com/,973750,2,2,0,1,53,,,,2,null,0
+vivekkaul.com,http://vivekkaul.com/,1765244,2,3,3,1,613,,,,2,null,0
+"Wall Street Journal",https://www.wsj.com/,1150,2,3,0,15,2920,,,,2,"US Center Right 2019",0
+lifestyle.livemint.com,http://lifestyle.livemint.com/,1783999,2,2,0,1,94,,,,2,null,0
+Wikipedia,http://en.wikipedia.org,18370,2,2,324,2,143,,,,2,"US Center 2019",0
+"News - South Africa (English)",http://www.news.co.za/,623419,2,2,0,1,464,,,,2,null,0
+"Business Insider",http://www.businessinsider.com,18710,2,2,2,2,751,,,,2,"US Center 2019",0
+"Bollywood Hungama",http://www.bollywoodhungama.com/feed/,322896,2,2,0,1,29,,,,2,null,0
+Conversation,https://theconversation.com/us,54346,2,2,14,4,133,,,,2,"US Center Left 2019",0
+news18.com,http://news18.com/,189910,2,2,0,140,694,,,,2,null,0
+business-humanrights.org,http://www.business-humanrights.org/#spider,91768,2,2,0,1,2564,,,,2,null,0
+grainmart.in,http://grainmart.in/,1385564,2,2,0,2,20,,,,2,null,0
+DW,http://dw.com/,266951,2,2,0,2,73,,,,2,"US Center 2019",0
+"Yahoo! News",https://mx.yahoo.com/,239573,5,5,1,5,13,,,,2,"US Center 2019",0
+factcheck.afp.com,http://factcheck.afp.com/,880013,2,2,3,1,15,,,,2,"US Center Left 2019",0
+Vice,http://m.vice.com,26164,2,2,3,2,161,,,,2,"US Center Left 2019",0
+"Democracy Now!",http://www.democracynow.org/,1721,2,2,0,1,3514,,,,2,"US Left 2019",0
+abplive.in,http://abplive.in/,208629,3,3,5,570,6836,,,,2,null,0
+HuffPost,http://www.huffingtonpost.com/#,27502,2,2,13,13,1684,,,,2,"US Center Left 2019",0
+"The Statesman",https://www.thestatesman.com/,109735,2,2,0,2,14,,,,2,"US Left 2019",0
+indiasnews.net,http://indiasnews.net/,283750,2,2,10,310,670,,,,2,null,0
+freespeechcollective.in,http://freespeechcollective.in/,1156633,2,3,1,1,58,,,,2,null,0
+humancostoffarmersprotest.blogspot.com,http://humancostoffarmersprotest.blogspot.com/,1853984,2,2,13,1,108,,,,2,null,0
+businessworld.in,http://businessworld.in/,283619,3,3,0,949,1361224,,,,2,null,0
+Facebook,http://en-gb.facebook.com/,61164,2,2,0,2,0,,,,2,"US Center 2019",0
+thepoliticalfix.substack.com,http://thepoliticalfix.substack.com/,1342364,8,22,25,7,8,,,,2,null,0
+poeticjustice.foundation,http://poeticjustice.foundation/,1853985,1,1,0,1,16,,,,1,null,0
+"CBS News",http://www.cbsnews.com/,1752,2,2,4,5,548,,,,1,"US Center 2019",0
+trolleytimes.online,http://trolleytimes.online/,1852190,1,1,0,1,92,,,,1,null,0
+"PTI- Press Trust of India",http://ptinews.com/,235764,1,1,0,1,0,,,,1,null,0
+euronews.com,http://www.euronews.com/#spider,45727,1,2,0,1,37,,,,1,"US Center 2019",0
+"National Post",http://www.nationalpost.com/index.html,300411,1,1,0,1,79,,,,1,"US Center Right 2019",0
+science.thewire.in,http://science.thewire.in/,1389568,1,2,4,1,0,,,,1,null,0
+infeed.in,http://infeed.in/,1478139,1,1,0,1,3116,,,,1,null,0
+eurotopics.net,http://eurotopics.net/#spider,105360,1,1,0,1,4,,,,1,null,0
+gaonconnection.com,http://gaonconnection.com/,562345,2,2,0,6,175,,,,1,null,0
+"Live Hindustan : Hindi News- Hindi Samachar, Breaking Hindi News, Hindi Newsheadlines",http://www.livehindustan.com/,271162,1,1,73,57,1501,,,,1,"US Center Left 2019",0
+"DD News",http://www.ddinews.gov.in/,283465,1,1,0,3,2,,,,1,null,0
+dawn,http://www.dawn.com,39609,1,1,1,2,30,,,,1,"US Center Right 2019",0
+gujarati.oneindia.com,http://gujarati.oneindia.com/,562670,1,1,0,1,0,,,,1,null,0
+thekashmiriyat.co.uk,http://thekashmiriyat.co.uk/,1311651,1,1,0,1,3,,,,1,null,0
+sbs,http://www.sbs.com.au/news/,40508,1,1,0,1,54,,,,1,"US Center Left 2019",0
+Buzzfeed,http://www.buzzfeed.com,6218,1,1,6,2,1138,,,,1,"US Center Left 2019",0
+yespunjab.com,http://yespunjab.com/,282890,1,1,0,1,1,,,,1,null,0
+ichowk.in,http://ichowk.in/,844293,1,1,0,1,29,,,,1,null,0
+"Foreign Policy",http://www.foreignpolicy.com,20153,1,1,1,1,116,,,,1,"US Center Left 2019",0
+struggles.in,http://struggles.in/,1853992,1,1,0,1,27,,,,1,null,0
+opoyi.com,http://opoyi.com/,1697417,1,1,0,4,57,,,,1,null,0
+atelier.rfi.fr,http://atelier.rfi.fr/,62266,1,1,0,2,4,,,,1,"US Center 2019",0
+yourcentralvalley.com,http://yourcentralvalley.com/,203263,1,1,0,1,130,,,,1,"US Center 2019",0
+empirediaries.com,http://empirediaries.com/,1692026,1,1,0,1,930,,,,1,null,0
+tv9hindi.com,http://tv9hindi.com/,1753882,1,1,0,1,1,,,,1,null,0
+"The Pioneer",http://www.dailypioneer.com/,271170,1,1,0,1,0,,,,1,null,0
+devinder-sharma.blogspot.com,http://devinder-sharma.blogspot.com/,62960,1,1,0,1,3,,,,1,null,0
+sanhati.com,http://sanhati.com/,63080,1,1,0,1,6,,,,1,null,0
+Atlantic,http://www.theatlantic.com/,1110,1,2,4,1,1341,,,,1,"US Center Left 2019",0
+"Ms. Magazine Blog —",http://msmagazine.com/blog/,83188,1,1,4,1,178,,,,1,"US Left 2019",0
+special.ndtv.com,http://special.ndtv.com/,973642,1,1,0,1,0,,,,1,null,0
+thedailyeye.info,http://thedailyeye.info/,840020,1,1,0,1,23,,,,1,null,0
+kafila.online,http://kafila.online/,388615,1,1,2,1,275,,,,1,null,0
+thewirehindi.com,http://thewirehindi.com/,767113,2,2,4,7,2976,,,,1,null,0
+Alternet,https://www.alternet.org/,56758,1,1,7,1,82,,,,1,"US Left 2019",0
+indianculturalforum.in,http://indianculturalforum.in/,283526,1,1,0,1,11,,,,1,null,0
+therahnuma.com,http://therahnuma.com/,559894,1,1,0,1,0,,,,1,null,0
+sentinelassam.com,http://sentinelassam.com/,283616,1,1,0,2,1,,,,1,null,0
+punjabijagran.com,http://punjabijagran.com/,1354298,1,1,0,1,1,,,,1,null,0
+magazine.outlookindia.com,http://magazine.outlookindia.com/,1642485,1,3,0,1,2,,,,1,null,0
+Time,http://time.com,4419,1,1,0,1,900,,,,1,"US Center Left 2019",0
+sanfrancisco.cbslocal.com,http://sanfrancisco.cbslocal.com,25216,1,1,0,1,145,,,,1,"US Center Right 2019",0
+liveupdates.hindustantimes.com,http://liveupdates.hindustantimes.com/,1342344,2,2,0,2,8,,,,1,null,0
+factly.in,https://factly.in/,282809,1,1,4,1,0,,,,1,null,0
+rozanaspokesman.in,http://rozanaspokesman.in/,1853990,1,1,0,1,0,,,,1,null,0
+agriculturepost.com,http://agriculturepost.com/,1853991,1,1,0,1,1,,,,1,null,0
+"The Frustrated Indian",http://www.thefrustratedindian.com,283414,1,1,131,116,22965,,,,1,null,0
+timesofindia.com,http://timesofindia.com/,172136,2,2,0,2,72,,,,1,"US Center 2019",0
+english.factcrescendo.com,http://english.factcrescendo.com/,1370513,1,1,0,1,9,,,,1,null,0
+idronline.org,http://idronline.org/,474661,1,1,14,7,504,,,,1,null,0
+tfiglobalnews.com,http://tfiglobalnews.com/,1767364,1,1,2,1,94,,,,1,null,0
+tiss.edu,http://tiss.edu/,465432,1,1,7,1,1,,,,1,null,0
+"Toronto Star",http://www.thestar.com/,38821,1,1,0,1,2,,,,1,"US Center Left 2019",0
+punjabtodaytv.com,http://punjabtodaytv.com/,1615860,1,1,1,1,283,,,,1,null,0
+dreamylenses.com,http://dreamylenses.com/,1853988,1,1,0,1,0,,,,1,null,0
+Vox,http://www.vox.com,104828,1,1,23,3,663,,,,1,"US Center Left 2019",0
+scribd.com,http://scribd.com/,366191,1,1,0,1,73,,,,1,"US Center 2019",0
+graphics.reuters.com,http://graphics.reuters.com/,888288,1,1,0,1,86,,,,1,"US Center 2019",0
+VOA,http://www.voanews.com/english/portal.cfm,1097,1,1,0,1,118,,,,1,"US Center 2019",0
+en.gaonconnection.com,http://en.gaonconnection.com/,1671092,1,1,10,8,13,,,,1,null,0
+pieterjfriedrich.medium.com,http://pieterjfriedrich.medium.com/,1741277,1,1,1,1,47,,,,1,null,0
+edtimes.in,http://edtimes.in/,681741,1,1,5,2,134,,,,1,null,0
+greaterkashmir.com,http://greaterkashmir.com/,118863,1,1,0,1,71,,,,1,null,0
+Diplomat,http://thediplomat.com/#spider,67224,1,1,6,1,56,,,,1,"US Center 2019",0
+"NBC News",http://www.nbcnews.com,25499,1,1,0,1,76,,,,1,"US Center Left 2019",0
+networkideas.org,http://networkideas.org/,250219,1,1,0,1,38,,,,1,null,0
+organiser.org,http://organiser.org/,296392,1,1,0,1,50,,,,1,"US Right 2019",0
+internetfreedom.in,http://internetfreedom.in/,415692,1,1,1,1,8,,,,1,null,0
+"Australian Broadcast Company (ABC)",http://www.abc.net.au,20775,1,2,0,1,242,,,,1,"US Center 2019",0
+shethepeople.tv,http://shethepeople.tv/,283021,1,1,11,12,58,,,,1,null,0
+"Mena FN (Arabic)",http://www.menafn.com/arabic/,651050,1,1,0,1,0,,,,1,"US Center Right 2019",0
+article-14.com,http://article-14.com/,1442388,1,1,0,1,254,,,,1,null,0
+newdelhinews.net,http://newdelhinews.net/,306605,1,1,0,1,4,,,,1,null,0
+AP,http://ap.org/,1154,2,2,0,2,359,,,,1,"US Center 2019",0
+hindi.news18.com,http://hindi.news18.com/,388765,1,1,0,1,36,,,,1,"US Center Left 2019",0
+jagrantv.com,http://jagrantv.com/,1795877,1,1,0,1,1,,,,1,null,0
+google.com,http://google.com/,366162,1,1,0,1,,,,,1,null,0
+askindiawhy.com,http://askindiawhy.com/,1853980,1,1,3,1,0,,,,1,null,0
+countercurrents.org,http://countercurrents.org/,57302,1,1,32,123,1679,,,,1,"US Left 2019",0
+tfipost.com,http://tfipost.com/,1318606,3,4,0,3,644,,,,1,null,0
+grain.org,http://grain.org/,134011,1,1,0,2,0,,,,1,null,0
+india.mongabay.com,http://india.mongabay.com/,767620,3,3,1,3,107,,,,1,null,0
+oneindia.com,http://oneindia.com/,245499,1,1,2,1328,28126,,,,1,null,0
+americanbazaaronline.com,http://americanbazaaronline.com/,286030,1,1,0,1,19,,,,1,null,0
+globalnews.ca,http://www.globalnews.ca,23163,1,1,0,6,1036,,,,1,"US Center 2019",0
+gal-dem.com,http://gal-dem.com/,311684,1,1,10,1,85,,,,1,"US Left 2019",0
+"The Week ",https://www.theweek.in/home.html,235676,1,1,0,29,82,,,,1,null,0
+tech.hindustantimes.com,http://tech.hindustantimes.com/,1524205,1,1,0,1,5,,,,1,null,0
+"National | Yahoo News India",https://in.news.yahoo.com/national/,283425,1,1,0,1,2527,,,,1,null,0
+archive.org,http://www.archive.org,19233,111,111,8,171,0,,,,1,"US Center Right 2019",0
+"Hindi News, हिंदी न्यूज़, Hindi Newspaper, Hindi Samachar",http://www.patrika.com/,271169,0,0,0,345,11793,,,,0,null,0
+asianage.com,http://www.asianage.com/#spider,88351,0,0,0,92,133,,,,0,"US Left 2019",0
+"NEWS ON AIR",http://www.newsonair.com/,283400,0,0,0,84,50,,,,0,null,0
+mid-day,http://www.mid-day.com/news/index.htm,42156,0,0,15,277,972,,,,0,null,0
+"Youth Ki Awaaz",http://youthkiawaaz.com/,282840,0,0,138,107,199,,,,0,null,0
+"St. Louis Post-Dispatch",http://www.stltoday.com,25170,0,0,0,2,0,,,,0,"US Center Left 2019",0
+frontline.in,http://www.frontline.in/#spider,99760,0,0,0,47,670,,,,0,null,0
+kractivist.org,http://kractivist.org/,119703,0,0,7,17,97,,,,0,null,0
+feminisminindia.com,http://feminisminindia.com/,282911,0,0,17,17,403,,,,0,"US Center Left 2019",0
+epw.in,http://epw.in/#spider,105200,0,0,0,1,0,,,,0,null,0
+"Japan Times",http://www.japantimes.co.jp/,41013,0,0,0,1,20,,,,0,"US Center 2019",0
+"News From India,Online Indian News - Home",http://www.onlineindiannews.com/,300461,0,0,0,1,0,,,,0,null,0
+"IPA Newspack – Latest on News, India Defence, Politics and Technology",http://ipanewspack.com/,300003,0,0,5,78,9,,,,0,null,0
+indiantelevision,http://www.indiantelevision.com/,40667,0,0,0,3,3,,,,0,null,0
+northeasttoday.in,http://northeasttoday.in/,282956,0,0,0,20,46,,,,0,null,0
+the-week.com,http://the-week.com/,125190,0,0,0,4,15,,,,0,null,0
+"Indian Defense Research Wing",http://idrw.org,283334,0,0,0,29,0,,,,0,null,0
+bhaskar.com,http://bhaskar.com/,219540,0,0,0,245,28872,,,,0,"US Center Left 2019",0
+thelogicalindian.com,http://thelogicalindian.com/,282820,0,0,149,257,22198,,,,0,"US Center 2019",0
+"National Interest",http://nationalinterest.org,25488,0,0,3,1,3,,,,0,"US Center Right 2019",0
+FilmFare.com,http://www.filmfare.com/,283457,0,0,1,6,46,,,,0,null,0
+manoramaonline.com,http://manoramaonline.com/,165995,0,0,0,109,5576,,,,0,"US Center Left 2019",0
+assamtribune.com,http://assamtribune.com/,262325,0,0,0,63,8,,,,0,null,0
+afaqs.com,http://afaqs.com/,213083,0,0,1,2,3,,,,0,null,0
+sify.com,http://sify.com/,55632,0,0,1,1488,371,,,,0,null,0
+Nation,http://thenation.com/,1008,0,0,0,1,144,,,,0,"US Left 2019",0
+amarujala.com,http://amarujala.com/,262319,0,0,0,422,0,,,,0,"US Right 2019",0
+siasat.com,http://siasat.com/,263876,0,0,0,4,144,,,,0,"US Center 2019",0
+news.rediff.com,http://news.rediff.com/,62776,0,0,1,529,1703,,,,0,null,0
+hindu.com,http://hindu.com/,57028,0,0,0,1,6,,,,0,null,0
+"International Business Times",http://www.ibtimes.co.in/,39422,0,0,1,93,144,,,,0,"US Center Left 2019",0
+"MxM India",http://www.mxmindia.com/,283469,0,0,1,9,30,,,,0,null,0
+abclive.in,http://abclive.in/,59297,0,0,0,3,7,,,,0,null,0
+bdnews24,http://bdnews24.com,38832,0,0,0,1,2,,,,0,"US Center Right 2019",0
+Pinkvilla,http://www.pinkvilla.com/,283470,0,0,12,63,160,,,,0,null,0
+thebetterindia.com,http://thebetterindia.com/,282905,0,0,0,1,9,,,,0,"US Center Left 2019",0
+"Sportstar : Saturday, October 24, 2015",http://www.sportstaronnet.com/,300538,0,0,0,1,0,,,,0,null,0
+ctvnews.ca,http://www.ctvnews.ca#spider,32434,0,0,2,1,15,,,,0,"US Center 2019",0
+swarajyamag.com,http://swarajyamag.com/,282983,0,0,38,105,6891,,,,0,"US Center 2019",0
+medianama.com,http://www.medianama.com,24099,0,0,4,21,89,,,,0,null,0
